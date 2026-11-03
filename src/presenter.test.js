@@ -46,4 +46,14 @@ describe("Presentador", () => {
 
     expect(resultado.innerHTML).toBe("<p>3.75</p>");
   });
+
+  it("muestra un error y no calcula cuando falta un número", () => {
+    primerNumero.value = "";
+
+    enviarFormulario({ preventDefault: () => {} });
+
+    expect(resultado.innerHTML).toBe(
+      "<p role=\"alert\">Por favor, ingresa ambos números.</p>"
+    );
+  });
 });

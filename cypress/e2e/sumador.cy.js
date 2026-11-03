@@ -18,4 +18,14 @@ describe("Sumador", () => {
       "0.30000000000000004"
     );
   });
+
+  it("shows a validation message when a number is missing", () => {
+    cy.visit("/");
+    cy.get("#segundo-numero").type("2");
+    cy.get("#sumar-button").click();
+    cy.get("#resultado-div").should(
+      "have.text",
+      "Por favor, ingresa ambos números."
+    );
+  });
 });
