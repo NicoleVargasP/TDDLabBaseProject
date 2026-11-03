@@ -30,9 +30,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f247826bff9f14638030643e97fe9c8c38753590",
     "commitName": "pruebas",
     "commitTimestamp": 1793684687156,
     "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: cover floating-point decimal addition\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+    "commitTimestamp": 1793685253238,
+    "testId": 2
   }
 ]
