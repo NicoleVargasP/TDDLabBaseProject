@@ -36,9 +36,15 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ff8cb459e8bc8bf12f5b80fe0cb3478c6b47f9b2",
     "commitName": "test: cover floating-point decimal addition\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
     "commitTimestamp": 1793685253238,
     "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: round decimal sums to input precision\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+    "commitTimestamp": 1793685487998,
+    "testId": 3
   }
 ]

@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ff8cb459e8bc8bf12f5b80fe0cb3478c6b47f9b2",
     "author": "Nicole Vargas",
     "commit": {
       "date": "2026-11-03T05:54:11.000Z",
       "message": "test: cover floating-point decimal addition\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
-      "url": "https://github.com/NicoleVargasP/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/NicoleVargasP/TDDLabBaseProject/commit/ff8cb459e8bc8bf12f5b80fe0cb3478c6b47f9b2"
     },
     "stats": {
       "total": 17,
@@ -55,5 +55,24 @@
     "test_count": 3,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2026-11-03T05:58:05.000Z",
+      "message": "fix: round decimal sums to input precision\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+      "url": "https://github.com/NicoleVargasP/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 10,
+      "deletions": 1,
+      "date": "2026-11-03"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
