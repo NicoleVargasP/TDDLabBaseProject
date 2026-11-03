@@ -24,9 +24,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "77c74096cc4bdd303c800657d57aaf382978f710",
     "commitName": "test: cover decimal addition in presenter\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
     "commitTimestamp": 1793684533737,
     "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "pruebas",
+    "commitTimestamp": 1793684687156,
+    "testId": 1
   }
 ]
