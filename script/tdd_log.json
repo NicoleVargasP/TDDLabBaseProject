@@ -42,9 +42,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a1203c589accadb32b4069f01e2723c3f4d4f86b",
     "commitName": "fix: round decimal sums to input precision\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
     "commitTimestamp": 1793685487998,
     "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1793686452764,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "pruebas en rama2",
+    "commitTimestamp": 1793687182617,
+    "testId": 4
   }
 ]

@@ -57,12 +57,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "a1203c589accadb32b4069f01e2723c3f4d4f86b",
     "author": "Nicole Vargas",
     "commit": {
       "date": "2026-11-03T05:58:05.000Z",
       "message": "fix: round decimal sums to input precision\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
-      "url": "https://github.com/NicoleVargasP/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/NicoleVargasP/TDDLabBaseProject/commit/a1203c589accadb32b4069f01e2723c3f4d4f86b"
     },
     "stats": {
       "total": 11,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2026-11-03T06:26:21.000Z",
+      "message": "pruebas en rama2",
+      "url": "https://github.com/NicoleVargasP/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2026-11-03"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
