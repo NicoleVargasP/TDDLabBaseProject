@@ -8,6 +8,12 @@ const div = document.querySelector("#resultado-div");
 form.addEventListener("submit", (event) => {
   event.preventDefault();
 
+  if (first.value.trim() === "" || second.value.trim() === "") {
+    div.innerHTML =
+      '<p role="alert">Por favor, ingresa ambos números.</p>';
+    return;
+  }
+
   const firstNumber = Number.parseFloat(first.value);
   const secondNumber = Number.parseFloat(second.value);
 
