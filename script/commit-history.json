@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2026-11-03T05:42:11.000Z",
+      "message": "test: cover decimal addition in presenter\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+      "url": "https://github.com/NicoleVargasP/TDDLabBaseProject/commit/HEAD"
+    },
+    "stats": {
+      "total": 49,
+      "additions": 49,
+      "deletions": 0,
+      "date": "2026-11-03"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  }
+]
